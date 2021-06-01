@@ -1,0 +1,5 @@
+include ':mediarecorder'
+include ':camera'
+include ':accelerometr'
+include ':app'
+rootProject.name = "practice_5"

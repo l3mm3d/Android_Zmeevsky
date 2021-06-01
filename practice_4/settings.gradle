@@ -1,0 +1,6 @@
+include ':player'
+include ':thread'
+include ':loadermanager'
+include ':data_tread'
+include ':app'
+rootProject.name = "practice_4"

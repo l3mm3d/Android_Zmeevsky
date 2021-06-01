@@ -1,0 +1,3 @@
+include ':clickbutton'
+include ':app'
+rootProject.name = "practice_1"
